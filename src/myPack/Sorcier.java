@@ -81,7 +81,7 @@ ImageIcon ico;
                 House="Serdaigle";
             }
             if(max==Pouf){
-                ico = new ImageIcon("Hufflepuf.png");
+                ico = new ImageIcon("Hufflepuff.png");
                 JOptionPane.showMessageDialog(null,getNom()+" "+getPrenom()+" Your house is Poufsouffle","House",JOptionPane.INFORMATION_MESSAGE,ico);
                 House= "Poufsouffle";
             }
